@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://www.credly.com/badges/af1259ca-f258-42d9-a36b-8808becdfe3d/public_url">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Reynolds-OK/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://www.credly.com/badges/af1259ca-f258-42d9-a36b-8808becdfe3d/public_url">Detection Lab</a>|
 | Scripting and Automation for Threat Detection and Mitigation | <a href="https://www.credly.com/badges/af1259ca-f258-42d9-a36b-8808becdfe3d/public_url">Detection Lab</a>|
 | Risk Analysis & Vulnerability Assessment | <a href="https://www.credly.com/badges/af1259ca-f258-42d9-a36b-8808becdfe3d/public_url">Detection Lab</a>|
@@ -67,5 +67,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Reynolds-OK/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
+- Test Project
